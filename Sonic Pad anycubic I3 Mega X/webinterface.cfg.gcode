@@ -1,0 +1,8 @@
+#=================================== fluidd / mainsail set =====================================
+[virtual_sdcard]
+path: ~/gcode_files
+
+[display_status]
+
+[pause_resume]
+recover_velocity: 25
